@@ -1,4 +1,4 @@
 # Multivariate-Analysis
 
-various python codes need for multivariate analysis
+various python codes needed for multivariate analysis
 (equations, visualizations, etc)
